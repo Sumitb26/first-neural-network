@@ -1,0 +1,12 @@
+.DS_Store
+
+.ipynb_checkpoints/
+.udacity-pa/
+
+
+*.pyc
+*.p
+*.pkl 
+
+*/.floyd*
+
