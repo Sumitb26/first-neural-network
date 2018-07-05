@@ -24,4 +24,4 @@ The data comes from the [UCI Machine Learning Database](https://archive.ics.uci.
     
 6. In your browser, open Your_first_neural_network.ipynb
 7. Follow the instructions in the notebook; they will lead you through the project.
-8. Feel free to change the hyperparameters to come up with better prediction.
+8. Feel free to change the hyperparameters in my_answers.py to come up with better prediction.
